@@ -1,0 +1,13 @@
+Initialization:
+stiahnut node.js kvoli toolom
+npm -v skontrolovat v powershell
+VSC - ESLint, Prettier, Material Icon Theme, Tokyo Night theme
+Settings - Auto save - OnFocus Change
+	   Default Format - Prettier
+	   Format On Save - Check
+	   EsLint run - onSave
+Snippets:  course > 00setup > file (( Console.log($1) znamena ze cursor sa nam automaticky da do zatvoriek)
+
+
+Quokka - exec JS vo VS Code, nemusime mat browser
+Zapneme tak, ze dame ctrl + shift + P, musime mat otvoreny js subor na ktorom to chcem mat a dame Quokka - start on this file
